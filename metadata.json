@@ -1,0 +1,6 @@
+{
+  "name": "QuizForge",
+  "description": "Generate multiple-choice tests and quizzes from PDF documents with instant grading, explanations, and review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
